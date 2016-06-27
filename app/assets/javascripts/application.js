@@ -1,0 +1,17 @@
+//= require jquery
+//= require jquery_ujs
+//= require jquery-2.2.0.min.js
+//= require bootstrap.js
+//= require imagesloaded.pkgd.min.js
+//= require isotope.pkgd.min.js
+//= require jquery.magnific-popup.min.js
+//= require waypoints.min.js
+//= require jquery.counterup.min.js
+//= require wow.min.js
+//= require waypoints.min.js
+//= require jquery.pjax.js
+//= require jquery.turbolinks
+//= require deven.js
+//= require github.js
+//= require turbolinks
+//= require_tree .
